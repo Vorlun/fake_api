@@ -1,0 +1,12 @@
+.articles {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  &-card {
+    width: 100%;
+    height: 300px;
+    border: 1px solid red;
+  }
+}

@@ -1,0 +1,10 @@
+footer {
+  width: 100%;
+  height: 60px;
+  background: black;
+  display: grid;
+  place-items: center;
+  span {
+    color: white;
+  }
+}
